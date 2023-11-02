@@ -1,0 +1,19 @@
+h1{
+text-align:center;
+background-color:#EF0C3D;
+color:white;
+font-size:30;
+}
+body{
+text-align:center;
+background-color:#1e90ff;
+}
+.container{
+        background-color:skyblue;
+	text-align:center;
+	border:5px solid black;
+	padding:30px;
+	margin:20px;
+        margin-left:180px;
+        margin-right:180px
+}
